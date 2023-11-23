@@ -1,1 +1,1 @@
-# Nuova
+print("Hello world");
